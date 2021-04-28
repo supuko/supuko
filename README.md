@@ -1,4 +1,4 @@
-### Hi there 👋
+### You can download the latest version of supuko.
 
 <!--
 **supuko/supuko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
